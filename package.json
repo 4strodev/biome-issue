@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "lint": "biome check",
+    "format": "biome format"
+  },
   "name": "biome",
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
